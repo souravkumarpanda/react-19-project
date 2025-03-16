@@ -1,0 +1,18 @@
+[
+    {
+      "icon": "MdPlace",
+      "title": "Find us",
+      "details": "Gunupur, Odisha"
+    },
+    {
+      "icon": "IoCallSharp",
+      "title": "Call us",
+      "details": "00000 00000"
+    },
+    {
+      "icon": "TbMailPlus",
+      "title": "Mail us",
+      "details": "testforproject@gmail.com"
+    }
+  ]
+  
